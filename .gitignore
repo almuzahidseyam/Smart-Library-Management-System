@@ -1,8 +1,8 @@
-﻿# NetBeans specific
+.deps/
 build/
 dist/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
 nbproject/private/
-
-# Windows
-Thumbs.db
-desktop.ini
